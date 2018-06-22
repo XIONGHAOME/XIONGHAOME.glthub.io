@@ -1,0 +1,41 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="xionghao.com" resolutions="1x,2x" timestamp="1529635770360">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3777112148" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="752831963@2x.jpg" crc="473763515" seo="true" ref="index"/>
+    <file name="triangle@2x.png" crc="3774038881" seo="true" ref="index"/>
+    <file name="triangle@2x_2x.png" crc="4112786887" seo="true" ref="index"/>
+    <file name="1305220343@2x.jpg" crc="3934719562" seo="true" ref="index"/>
+    <file name="2094891269@2x.jpg" crc="3765839889" seo="true" ref="index"/>
+    <file name="523093279@2x.jpg" crc="248130460" seo="true" ref="index"/>
+    <file name="348176508@2x.jpg" crc="4154873083" seo="true" ref="index"/>
+    <file name="ai@2x.jpg" crc="81569577" seo="true" ref="index"/>
+    <file name="group 11@2x.png" crc="223195090" seo="true" ref="index"/>
+    <file name="group 10@2x.png" crc="3771614450" seo="true" ref="index"/>
+    <file name="group 7@2x.png" crc="4079893423" seo="true" ref="index"/>
+    <file name="group 6@2x.png" crc="4291602402" seo="true" ref="index"/>
+    <file name="group 5@2x.png" crc="3775133275" seo="true" ref="index"/>
+    <file name="group 5@2x_2x.png" crc="3990282428" seo="true" ref="index"/>
+    <file name="@copyright tkkart 20@2x.png" crc="49330676" seo="true" ref="index"/>
+    <file name="@copyright tkkart 20@2x_2x.png" crc="308034016" seo="true" ref="index"/>
+    <file name="u213-10.png" crc="3986464315" ref="index"/>
+    <file name="u213-10_2x.png" crc="3910667572" ref="index"/>
+    <file name="u242-8.png" crc="40477247" ref="index"/>
+    <file name="u242-8_2x.png" crc="211170265" ref="index"/>
+    <file name="u254-4.png" crc="4110310512" ref="index"/>
+    <file name="u254-4_2x.png" crc="12608735" ref="index"/>
+    <file name="group 7@2x_2x.png" crc="165013695" seo="true" ref="index"/>
+    <file name="group 6@2x_2x.png" crc="266313685" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4030690056" seo="true" mt="1529633785718" redirect="true"/>
+</manifest>
